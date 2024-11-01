@@ -9,6 +9,11 @@ This study addresses the challenge of autonomous high-resolution land cover mapp
 Graphical abstract illustrating fine-scale mapping using noise labels. It highlights the issue of spatial resolution mismatch between high-resolution (HR) remote sensing images and pseudo-low-resolution (PLR) ground truth (GT) labels. An algorithm is needed to reduce inconsistencies and lead to uncertainty in predictions. The final results support real-world applications such as forests, agriculture, urbanization, and natural hazard monitoring for early warnings.
 
 
+# Architecture:
+
+![CNN_ViT_branchs VFH_ISDE_Rda_original7_page-0001 (1)](https://github.com/user-attachments/assets/b51404f5-b143-4116-89be-f2fdc1efdd90)
+
+
 ## Description
 
 
