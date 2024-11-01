@@ -33,7 +33,10 @@ Graphical abstract illustrating fine-scale mapping using noise labels. It highli
 
 The study introduced the Coarse-to-Fine Network (C2FNet) framework, which incorporates three key components: Edge Resolution Refinement Backbones (ERRB) for stable feature extraction, Unsupervised Dynamic Shuffle and Diagonal Annotation (UDSDA) for confident area selection and probability assignment based close spatial patterns within multiscale features, and a Contrasting Self-Supervised Loss Function (C2F-Loss) utilizing cosine similarity to guide model learning. The contributions of this study can be summarized as: a) improving the accuracy and robustness of land cover mapping, particularly in regions with complex features, achieving an overall accuracy of 80.01% and a kappa coefficient of 0.7567; and b) maximizing the utilization of available data sources for advanced high-resolution land cover mapping. 
 
-![CNN_ViT_branchs VFH_ISDE_Rda_original7_page-0001 (1)](https://github.com/user-attachments/assets/b51404f5-b143-4116-89be-f2fdc1efdd90)
+1. ![image](https://github.com/user-attachments/assets/c9925924-8750-41c3-86b5-8fe279f437c5)
+
+
+2. ![CNN_ViT_branchs VFH_ISDE_Rda_original7_page-0001 (1)](https://github.com/user-attachments/assets/b51404f5-b143-4116-89be-f2fdc1efdd90)
 
 
 
