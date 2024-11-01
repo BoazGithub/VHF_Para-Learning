@@ -48,9 +48,14 @@ The VHF-Net architecture consists of three core components: a CNN and ViT branch
 
 # Quantitative Results
 
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/48e16a29-8b71-40fc-8d63-f8e25c494ddf)
 
 ![image](https://github.com/user-attachments/assets/64e7d529-28c5-49df-9639-8c562fcab3f2)
+
+
+![Quantitativd_VHP](https://github.com/user-attachments/assets/21d1a32e-7eab-4711-b4f9-a098f8c1885f)
+
+
 
 # Qualitative Results
 
