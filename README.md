@@ -40,13 +40,20 @@ C2FNetwork components:
    
 ![Unsupervised Dynamic Shuffle and Diagonal Annotation_design2_page-0001](https://github.com/user-attachments/assets/d5fcada2-69cc-4545-8aa4-332b9c762795)
 
+## Results:
+
+
+![Features_flowsaF3_page-0001](https://github.com/user-attachments/assets/2db43d0a-a2ed-40a8-a763-e1782b69c191)
+
 
 # Quantitative Results
 
 ![image](https://github.com/user-attachments/assets/64e7d529-28c5-49df-9639-8c562fcab3f2)
 
 # Qualitative Results
-![image](https://github.com/user-attachments/assets/8b8f1148-e7b7-46ad-bf9b-31f2b3340ebd)
+![nyagate_multimodel_performance_metrics_histograms_with_lines_and_unique_colormap_page-0001](https://github.com/user-attachments/assets/9c1c3e94-46a5-4a65-b35a-229156094ea0)
+
+
 
 ### 🔭 Baseline:
 
