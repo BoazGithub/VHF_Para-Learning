@@ -31,7 +31,7 @@ Graphical abstract illustrating fine-scale mapping using noise labels. It highli
 
 # VHF_ParaNet Architecture
 
-The study introduced the Coarse-to-Fine Network (C2FNet) framework, which incorporates three key components: Edge Resolution Refinement Backbones (ERRB) for stable feature extraction, Unsupervised Dynamic Shuffle and Diagonal Annotation (UDSDA) for confident area selection and probability assignment based close spatial patterns within multiscale features, and a Contrasting Self-Supervised Loss Function (C2F-Loss) utilizing cosine similarity to guide model learning. The contributions of this study can be summarized as: a) improving the accuracy and robustness of land cover mapping, particularly in regions with complex features, achieving an overall accuracy of 80.01% and a kappa coefficient of 0.7567; and b) maximizing the utilization of available data sources for advanced high-resolution land cover mapping. 
+The VHF-Net architecture consists of three core components: a CNN and ViT branch, a deep noise-label assistant training (NLAT) module, and a multi-layer agent (MLA) module. These components use attention mechanisms and residual learning to focus on key regions while removing irrelevant background noise, enabling the model to capture distinctive features for land cover classification. The CNN-based deep attention module further extracts high-level features from the input images to enhance classification accuracy. 
 
 1. ![image](https://github.com/user-attachments/assets/c9925924-8750-41c3-86b5-8fe279f437c5)
 
