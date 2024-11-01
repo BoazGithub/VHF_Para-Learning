@@ -1,7 +1,7 @@
 # VISION TRANSFORMERS FEATURE HARMONIZATION NETWORK FOR  HIGH-RESOLUTION LAND COVER MAPPING 
 
 This study addresses the challenge of autonomous high-resolution land cover mapping, which is vital for understanding ecological dynamics and the Earth's surface. The research utilizes the GLC10 dataset, a freely available global low-resolution land cover product, to inform fine-scale mapping, while high-resolution imagery from Google Earth serves as the primary training data for the model. To overcome the limitations of traditional CNNs in capturing global context, we introduce Vision Feature Harmonisation Learning (VHF-Para Learning), a novel framework that integrates Vision Transformers with CNNs for parallel feature learning and improved edge refinement. 
-
+ 
 ## Graphical abstract:
 
 ![Illustration2_of_resolution mismatch_page-0001](https://github.com/user-attachments/assets/1830acbc-aa7f-4e49-b650-038919f72964)
