@@ -8,12 +8,6 @@ This study addresses the challenge of autonomous high-resolution land cover mapp
 
 Graphical abstract illustrating fine-scale mapping using noise labels. It highlights the issue of spatial resolution mismatch between high-resolution (HR) remote sensing images and pseudo-low-resolution (PLR) ground truth (GT) labels. An algorithm is needed to reduce inconsistencies and lead to uncertainty in predictions. The final results support real-world applications such as forests, agriculture, urbanization, and natural hazard monitoring for early warnings.
 
-
-# Architecture:
-
-![CNN_ViT_branchs VFH_ISDE_Rda_original7_page-0001 (1)](https://github.com/user-attachments/assets/b51404f5-b143-4116-89be-f2fdc1efdd90)
-
-
 ## Description
 
 
@@ -38,7 +32,9 @@ Graphical abstract illustrating fine-scale mapping using noise labels. It highli
 # VHF_ParaNet Architecture
 
 The study introduced the Coarse-to-Fine Network (C2FNet) framework, which incorporates three key components: Edge Resolution Refinement Backbones (ERRB) for stable feature extraction, Unsupervised Dynamic Shuffle and Diagonal Annotation (UDSDA) for confident area selection and probability assignment based close spatial patterns within multiscale features, and a Contrasting Self-Supervised Loss Function (C2F-Loss) utilizing cosine similarity to guide model learning. The contributions of this study can be summarized as: a) improving the accuracy and robustness of land cover mapping, particularly in regions with complex features, achieving an overall accuracy of 80.01% and a kappa coefficient of 0.7567; and b) maximizing the utilization of available data sources for advanced high-resolution land cover mapping. 
-![image](https://github.com/user-attachments/assets/3e163c08-adcd-47ed-9384-504fdadf38f7)
+
+![CNN_ViT_branchs VFH_ISDE_Rda_original7_page-0001 (1)](https://github.com/user-attachments/assets/b51404f5-b143-4116-89be-f2fdc1efdd90)
+
 
 
 # Results:
@@ -55,6 +51,9 @@ The study introduced the Coarse-to-Fine Network (C2FNet) framework, which incorp
 
 ![nyagate_multimodel_performance_metrics_histograms_with_lines_and_unique_colormap_page-0001](https://github.com/user-attachments/assets/9c1c3e94-46a5-4a65-b35a-229156094ea0)
 
+## SoA
+
+![Uploading Nyagatare_small_comparative mapping_page-0001.jpg…]()
 
 
 ![VHF_Para_Dataset_correlation_heatmap5_page-0001](https://github.com/user-attachments/assets/5d3040cb-7e4c-4cde-8b5d-b7b244091aa6)
