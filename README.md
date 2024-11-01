@@ -53,10 +53,11 @@ The study introduced the Coarse-to-Fine Network (C2FNet) framework, which incorp
 
 ## SoA
 
-![Uploading Nyagatare_small_comparative mapping_page-0001.jpg…]()
+1. ![image](https://github.com/user-attachments/assets/35db271b-8d92-480d-9f36-24ea08ad41ec)
 
 
-![VHF_Para_Dataset_correlation_heatmap5_page-0001](https://github.com/user-attachments/assets/5d3040cb-7e4c-4cde-8b5d-b7b244091aa6)
+
+2. ![VHF_Para_Dataset_correlation_heatmap5_page-0001](https://github.com/user-attachments/assets/5d3040cb-7e4c-4cde-8b5d-b7b244091aa6)
 
 
 ### 🔭 Baseline:
