@@ -20,7 +20,7 @@ Graphical abstract illustrating fine-scale mapping using noise labels. It highli
 ## Description
 
 ###  Study Area
-
+The Vision transformer feature harmonization network was trained over Nyagatare, and Rwamagana and migration was made over the National Agriculture imagery program and CheasaBay land cover products
 
 ![3MVH_ParaNetl_2024](https://github.com/user-attachments/assets/6dbddb6a-6101-4944-84c6-b59101ff4345)
 
