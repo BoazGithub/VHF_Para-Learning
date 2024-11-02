@@ -8,16 +8,6 @@ This study addresses the challenge of autonomous high-resolution land cover mapp
 
 Graphical abstract illustrating fine-scale mapping using noise labels. It highlights the issue of spatial resolution mismatch between high-resolution (HR) remote sensing images and pseudo-low-resolution (PLR) ground truth (GT) labels. An algorithm is needed to reduce inconsistencies and lead to uncertainty in predictions. The final results support real-world applications such as forests, agriculture, urbanization, and natural hazard monitoring for early warnings.
 
-## Description
-
-
-| Image Ref. |      Site     | Image Acquisition Date  |   GT Date   |
-| ---------- | ------------- | ----------- | ------------ | 
-|   Img (1)  |   The City of Kigali  |  04-03-2023 |  27-06-2023 |
-|   Img (2)  |      Bugesera        |  22-07-2023  |  25-08-2023  |  
-|   Img (3)  |   Oklahoma State    |  26-08-2022  |  03-80-2022  |  
-
-
 # Requirements 
 
 
@@ -27,6 +17,20 @@ Graphical abstract illustrating fine-scale mapping using noise labels. It highli
 [![Opencv 4.5.5](https://img.shields.io/badge/Opencv-4.5.5-blue.svg)](https://opencv.org/opencv-4-5-5/)
 [![CUDA Toolkit 10.1](https://img.shields.io/badge/CUDA-10.1-blue.svg)](https://developer.nvidia.com/cuda-10.1-download-archive-base)
 [![Wandb 0.13.10](https://img.shields.io/badge/Wandb-0.13.10-blue.svg)](https://pypi.org/project/wandb/)
+## Description
+
+###  Study Area
+
+
+![3MVH_ParaNetl_2024](https://github.com/user-attachments/assets/6dbddb6a-6101-4944-84c6-b59101ff4345)
+
+
+| Image Ref. |      Site     | Image Acquisition Date  |   GT Date   |
+| ---------- | ------------- | ----------- | ------------ | 
+|   Img (1)  |   The City of Kigali  |  04-03-2023 |  27-06-2023 |
+|   Img (2)  |      Bugesera        |  22-07-2023  |  25-08-2023  |  
+|   Img (3)  |   Oklahoma State    |  26-08-2022  |  03-80-2022  |  
+
 
 
 # VHF_ParaNet Architecture
