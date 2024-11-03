@@ -46,6 +46,11 @@ The VHF-Net architecture consists of three core components: a CNN and ViT branch
 
 # Results:
 
+##### Tracking training progress:
+in both valuation and validation in a variety of metrics ranging from how our loss function is declining, Accuracy, F1-Score, Recall, and their validation
+![image](https://github.com/user-attachments/assets/316990c2-101f-4159-9397-22671d9b0863)
+
+#### Harmonization stages and improvement of feature pattern recognition 
 
 ![Features_flowsaF3_page-0001](https://github.com/user-attachments/assets/2db43d0a-a2ed-40a8-a763-e1782b69c191)
 
