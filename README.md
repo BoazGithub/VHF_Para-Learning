@@ -1,5 +1,22 @@
 # VISION TRANSFORMERS FEATURE HARMONIZATION NETWORK FOR  HIGH-RESOLUTION LAND COVER MAPPING 
 
+
+<h2 align="left">Authors <br></h2>
+
+[![Author](https://img.shields.io/badge/Boaz-MWUBAHIMANA-orange.svg)](https://github.com/BoazGithub) 
+[![Author](https://img.shields.io/badge/YAN-Jianguo-orange.svg)](http://www.lmars.whu.edu.cn/enjianguo-yan/) 
+[![Author](https://img.shields.io/badge/-Holail-orange.svg)](https://www.linkedin.com/in/shimaaholail/) 
+[![Author](https://img.shields.io/badge/Xingxing-Weng-orange.svg)]() 
+[![Author](https://img.shields.io/badge/Chen-Hao-orange.svg)]() 
+[![Author](https://img.shields.io/badge/Xingxing-Weng-orange.svg)]() 
+[![Author](https://img.shields.io/badge/Chen-Hao-orange.svg)]() 
+[![Author](https://img.shields.io/badge/Xingxing-Weng-orange.svg)]() 
+[![Author](https://img.shields.io/badge/Dingruibo-Miao-orange.svg)](https://ieeexplore.ieee.org/author/37089315877) 
+
+## Updates
+| :zap:         | November, 2023: VHF_ParaNet has been submitted for publication at the International Journal of Applied Earth Observation and Geoinformation. |
+|---------------|:------------------------|
+
 This study addresses the challenge of autonomous high-resolution land cover mapping, which is vital for understanding ecological dynamics and the Earth's surface. The research utilizes the GLC10 dataset, a freely available global low-resolution land cover product, to inform fine-scale mapping, while high-resolution imagery from Google Earth serves as the primary training data for the model. To overcome the limitations of traditional CNNs in capturing global context, we introduce Vision Feature Harmonisation Learning (VHF-Para Learning), a novel framework that integrates Vision Transformers with CNNs for parallel feature learning and improved edge refinement. VHF_ParaNet Model and sKwanda_V2_(Bugesera_Rwamagana{Rwanda}) and Oklahoma{USA} dataset can be downloaded [[here](https://drive.google.com/drive/folders/1h9T6w84P8b2xyD81at4JMn30VekAS53E?usp=drive_link)], [[here](https://drive.google.com/file/d/1X_Fz7LQIeix3rV3K29FBfKiU1WMdROe-/view?usp=drive_link)]  respectively.
  
 ## Graphical abstract: 
