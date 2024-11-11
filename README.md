@@ -74,9 +74,7 @@ in both valuation and validation in a variety of metrics ranging from how our lo
 
 # Quantitative Results
 
-
-![Quantitativd_VHP](https://github.com/user-attachments/assets/21d1a32e-7eab-4711-b4f9-a098f8c1885f)
-
+![image](https://github.com/user-attachments/assets/9d7fb582-3134-43c6-9c44-0daaf8b3d362)
 
 
 # Qualitative Results
