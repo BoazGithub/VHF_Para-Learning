@@ -53,7 +53,7 @@ The Vision transformer feature harmonization network was trained over Nyagatare,
 # VHF_ParaNet Architecture
 
 The VHF-Net architecture consists of three core components: a CNN and ViT branch, a deep noise-label assistant training (NLAT) module, and a multi-layer agent (MLA) module. These components use attention mechanisms and residual learning to focus on key regions while removing irrelevant background noise, enabling the model to capture distinctive features for land cover classification. The CNN-based deep attention module further extracts high-level features from the input images to enhance classification accuracy. 
-### Algorithm flowsa
+### Algorithm flows:
 1. ![image](https://github.com/user-attachments/assets/c9925924-8750-41c3-86b5-8fe279f437c5)
 
 ### VFH_Para workflows
