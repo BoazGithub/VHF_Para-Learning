@@ -1,16 +1,15 @@
-# VISION TRANSFORMERS FEATURE HARMONIZATION NETWORK FOR  HIGH-RESOLUTION LAND COVER MAPPING 
-
+# <h1 align="center">  <b>VHF_ParaNet|VISION TRANSFORMERS FEATURE HARMONIZATION NETWORK FOR  HIGH-RESOLUTION LAND COVER MAPPING </b><br></h1>
 
 <h2 align="left">Authors <br></h2>
 
 [![Author](https://img.shields.io/badge/Boaz-MWUBAHIMANA-orange.svg)](https://github.com/BoazGithub) 
 [![Author](https://img.shields.io/badge/YAN-Jianguo-orange.svg)](http://www.lmars.whu.edu.cn/enjianguo-yan/) 
-[![Author](https://img.shields.io/badge/-Holail-orange.svg)](https://www.linkedin.com/in/shimaaholail/) 
-[![Author](https://img.shields.io/badge/Xingxing-Weng-orange.svg)]() 
-[![Author](https://img.shields.io/badge/Chen-Hao-orange.svg)]() 
-[![Author](https://img.shields.io/badge/Xingxing-Weng-orange.svg)]() 
-[![Author](https://img.shields.io/badge/Chen-Hao-orange.svg)]() 
-[![Author](https://img.shields.io/badge/Xingxing-Weng-orange.svg)]() 
+[![Author](https://img.shields.io/badge/Swalpa-Kumar-Roy-orange.svg)](https://ieeexplore.ieee.org/author/37086689617) 
+[![Author](https://img.shields.io/badge/Maurice-Mugabowindekwe-orange.svg)](https://researchprofiles.ku.dk/en/persons/maurice-mugabowindekwe) 
+[![Author](https://img.shields.io/badge/Xiao-Huang-orange.svg)](https://envs.emory.edu/people/bios/Huang-Xiao%20.html) 
+[![Author](https://img.shields.io/badge/Elias-Nyandwi-orange.svg)](https://cst.ur.ac.rw/?Dr-Elias-Nyandwi-723) 
+[![Author](https://img.shields.io/badge/Eric-Habineza-orange.svg)](https://www.linkedin.com/in/eric-habineza-79559519b/?originalSubdomain=rw) 
+[![Author](https://img.shields.io/badge/Fidele-Mwizerwa-orange.svg)](https://cst.ur.ac.rw/?Mrs-Fidele-MWIZERWA) 
 [![Author](https://img.shields.io/badge/Dingruibo-Miao-orange.svg)](https://ieeexplore.ieee.org/author/37089315877) 
 
 ## Updates
