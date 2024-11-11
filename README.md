@@ -10,6 +10,7 @@
 [![Author](https://img.shields.io/badge/Elias-Nyandwi-orange.svg)](https://cst.ur.ac.rw/?Dr-Elias-Nyandwi-723) 
 [![Author](https://img.shields.io/badge/Eric-Habineza-orange.svg)](https://www.linkedin.com/in/eric-habineza-79559519b/?originalSubdomain=rw) 
 [![Author](https://img.shields.io/badge/Fidele-Mwizerwa-orange.svg)](https://cst.ur.ac.rw/?Mrs-Fidele-MWIZERWA) 
+[![Author](https://img.shields.io/badge/Joseph-Tuyishimire-orange.svg)](https://cst.ur.ac.rw/?Mr-Joseph-Tuyishimire) 
 [![Author](https://img.shields.io/badge/Dingruibo-Miao-orange.svg)](https://ieeexplore.ieee.org/author/37089315877) 
 
 ## Updates
