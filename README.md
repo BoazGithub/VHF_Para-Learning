@@ -105,10 +105,10 @@ in both valuation and validation in a variety of metrics ranging from how our lo
 
 👉 Data Structure
 ### Dataset Overview
-The sKwanda_V1_d dataset includes 256 × 256 pixel image patches collected from various regions. It is organized into three subsets: train, val, and test, each containing images and their corresponding ground truth labels. This dataset supports tasks such as supervised land cover classification and semantic segmentation.
-### sKwanda_V1_d Dataset
+The sKwanda_V2 dataset includes 512 × 512 pixel image patches collected from various regions. It is organized into three subsets: train, val, and test, each containing images and their corresponding ground truth labels. This dataset supports tasks such as supervised land cover classification and semantic segmentation.
+### sKwanda_V2 Dataset
 
-The *sKwanda_V1_d* dataset is organized into training, validation, and testing sets, each containing images and ground truth (GT) labels for land cover mapping. The structure is as follows:
+The *sKwanda_V2* dataset is organized into training, validation, and testing sets, each containing images and ground truth (GT) labels for land cover mapping. The structure is as follows:
 
 ### Dataset Structure
 import matplotlib.pyplot as plt
