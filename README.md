@@ -25,7 +25,7 @@ This study addresses the challenge of autonomous high-resolution land cover mapp
 
 Graphical abstract illustrating fine-scale mapping using noise labels. It highlights the issue of spatial resolution mismatch between high-resolution (HR) remote sensing images and pseudo-low-resolution (PLR) ground truth (GT) labels. An algorithm is needed to reduce inconsistencies and lead to uncertainty in predictions. The final results support real-world applications such as forests, agriculture, urbanization, and natural hazard monitoring for early warnings.
 
-# Requirements 
+# Requirements:
 
 
 [![Python 3.7+](https://img.shields.io/badge/Python-3.7+-blue.svg)](https://www.python.org/downloads/release/python-376/) 
@@ -34,9 +34,9 @@ Graphical abstract illustrating fine-scale mapping using noise labels. It highli
 [![Opencv 4.5.5](https://img.shields.io/badge/Opencv-4.5.5-blue.svg)](https://opencv.org/opencv-4-5-5/)
 [![CUDA Toolkit 10.1](https://img.shields.io/badge/CUDA-10.1-blue.svg)](https://developer.nvidia.com/cuda-10.1-download-archive-base)
 [![Wandb 0.13.10](https://img.shields.io/badge/Wandb-0.13.10-blue.svg)](https://pypi.org/project/wandb/)
-## Description
+## Description:
 
-###  Study Area
+###  Study Area:
 The Vision transformer feature harmonization network was trained over Nyagatare, and Rwamagana{top-left-corner at red A}, and migration was made over the National Agriculture imagery program{top-left-corner at red B} and CheasaBay land cover products
 
 ![3MVH_ParaNetl_2024](https://github.com/user-attachments/assets/6dbddb6a-6101-4944-84c6-b59101ff4345)
@@ -56,9 +56,8 @@ The VHF-Net architecture consists of three core components: a CNN and ViT branch
 ### Algorithm flows:
 1. ![image](https://github.com/user-attachments/assets/c9925924-8750-41c3-86b5-8fe279f437c5)
 
-### VFH_Para workflows
+### VFH_Para network workflows:
 2. ![CNN_ViT_branchs VFH_ISDE_Rda_original7_page-0001 (1)](https://github.com/user-attachments/assets/b51404f5-b143-4116-89be-f2fdc1efdd90)
-
 
 
 # Results:
@@ -67,12 +66,12 @@ The VHF-Net architecture consists of three core components: a CNN and ViT branch
 in both valuation and validation in a variety of metrics ranging from how our loss function is declining, Accuracy, F1-Score, Recall, and their validation
 ![image](https://github.com/user-attachments/assets/316990c2-101f-4159-9397-22671d9b0863)
 
-#### Harmonization stages and improvement of feature pattern recognition 
+#### Harmonization stages and improvement of multiscale(both global and low dependencies) features' pattern recognition 
 
 ![Features_flowsaF3_page-0001](https://github.com/user-attachments/assets/2db43d0a-a2ed-40a8-a763-e1782b69c191)
 
 
-# Quantitative Results
+# Quantitative Results:
 
 ![image](https://github.com/user-attachments/assets/9d7fb582-3134-43c6-9c44-0daaf8b3d362)
 
